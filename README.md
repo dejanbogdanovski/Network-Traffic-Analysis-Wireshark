@@ -69,4 +69,4 @@ The investigation concluded by generating a SHA256 hash of the extracted `TV` fi
 ## Indicators of Compromise (IOCs)
 * **Malicious IPs:** `82.221.136.26`, `5.252.153.241`
 * **Malicious Domains:** `authenticatoor.org`, `google-authenticator.burleson-appliance.net`
-* **Payload Hash (SHA256):** `3448DA038
+* **Payload Hash (SHA256):** `3448DA03808F24568E6181011F8521C0713EA6160EFD05BFF20C43B091FF59F7`
