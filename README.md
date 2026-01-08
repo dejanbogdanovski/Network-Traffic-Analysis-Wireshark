@@ -41,7 +41,7 @@ Extracted the DNS "Answer" section, confirming that the fraudulent domain resolv
 Isolated and exported several suspicious objects from the traffic, including a PowerShell script and a mysterious file named TV.
 ![HTTP Payloads](Network%20Traffic%20Analysis%20Wireshark/06_HTTP_Payloads.png)
 
-**Step 8: Script Deconstruction**
+**Step 7: Script Deconstruction**
 Analyzed the TCP stream of the PowerShell script, which revealed functions for downloading additional payloads.
 ![Script Analysis](Network%20Traffic%20Analysis%20Wireshark/07_Script_Analysis.png)
 
